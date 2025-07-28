@@ -87,5 +87,5 @@ Out of the three models developed, the Xception model performed best with an acc
 
 ### ✒️ **Your Signature**
 
-Contributed by: Fathima Zulaikha 
-* Github: <a href="https://github.com/zul132">zul132</a>
+Contributed by: Sri Hari P
+* Github: <a href="https://github.com/Srihariparthi">srihari</a>
